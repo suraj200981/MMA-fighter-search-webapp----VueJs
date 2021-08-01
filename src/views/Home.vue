@@ -1,7 +1,6 @@
 <template>
   <div class="home">
     <List />
-    s
   </div>
 </template>
 

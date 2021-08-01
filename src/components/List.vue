@@ -7,7 +7,7 @@
       placeholder="Search for a fighter"
     />
 
-    <div v-for="fighter in fighters" :key="fighter.FighterId">
+    <div v-for="fighter in filteredFighters" :key="fighter.FighterId">
       <h1
         style="padding-top:20px; padding-bottom:20px; color:black; font-weight: 900; font-size:40px;"
       >
@@ -70,6 +70,7 @@ export default {
     return {
       contents: null,
       fighters: [],
+      search: "",
     };
   },
   //loads as soon as componet is mounted to DOM
@@ -78,6 +79,16 @@ export default {
       .then((response) => response.json())
       .then((data) => (this.fighters = data))
       .catch((err) => console.log(err.message));
+  },
+
+  computed: {
+    filteredFighters: function() {
+      return this.fighters.filter((fighter) => {
+        var fighterSearch;
+        fighterSearch = this.search[0].toUpperCase() + this.search.substring(1);
+        return fighter.FirstName.match(fighterSearch);
+      });
+    },
   },
 };
 </script>
