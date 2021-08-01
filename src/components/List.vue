@@ -1,33 +1,46 @@
 <template>
   <div>
     <div v-for="fighter in fighters" :key="fighter.FighterId">
+      <h1
+        style="padding-top:20px; padding-bottom:20px; color:black; font-weight: 900; font-size:40px;"
+      >
+        {{ fighter.FirstName }} {{ fighter.LastName }}
+      </h1>
       <div class="container">
         <div class="cards">
-          <h2 style="padding-top: 50px;">
+          <!-- <h1
+            style="padding-top: 100px; color:white; font-weight: 900; font-size:40px;"
+          >
             {{ fighter.FirstName }} {{ fighter.LastName }}
-          </h2>
-
+          </h1> -->
+          <div class="imgBx">
+            <img
+              src="https://www.cnet.com/a/img/LFVAgdx99d77jWrKGNq_65wCd_8=/1200x675/2021/07/10/fcd2e24a-9022-44ba-8f1e-bbbc96f9376b/gettyimages-1327901739.jpg"
+            />
+          </div>
           <div class="content">
             <div class="details">
               <h2>
-                Nickname: <i>"{{ fighter.Nickname }}"</i><br /><span
-                  >Senior Designer</span
-                >
+                Fighter Profile
+                <br />
+                <span
+                  >Nickname: <i>"{{ fighter.Nickname }}"</i><br /></span
+                ><span>Weight class: {{ fighter.WeightClass }}</span>
+                <br /><span>Height: {{ fighter.Height }}</span
+                ><br /><span>Weight: {{ fighter.Weight }}</span
+                ><br /><span>Reach: {{ fighter.Reach }}</span>
               </h2>
-              <ul class="social_icons">
-                <li>
-                  <a href="#"><i class="fab fa-facebook-f"></i></a>
-                </li>
-                <li>
-                  <a href="#"><i class="fab fa-twitter"></i></a>
-                </li>
-                <li>
-                  <a href="#"><i class="fab fa-linkedin"></i></a>
-                </li>
-                <li>
-                  <a href="#"><i class="fab fa-instagram"></i></a>
-                </li>
-              </ul>
+              <br />
+              <h2>
+                Fighter Record
+                <br /><span>Wins: {{ fighter.Wins }}</span> <br /><span
+                  >Losses: {{ fighter.Losses }}</span
+                >
+                <br /><span>Draws: {{ fighter.Draws }}</span> <br /><span
+                  >Wins: {{ fighter.Wins }}</span
+                >
+                <br /><span>No contests: {{ fighter.NoContests }}</span>
+              </h2>
             </div>
           </div>
         </div>
@@ -89,14 +102,13 @@ body {
 
 .container .cards {
   position: relative;
-  width: 300px;
-  height: 400px;
+  width: 500px;
+  height: 800px;
   background: linear-gradient(#2196f3, #2196f3 30%, #1d3548 30%, #1d3548);
   margin: 10px;
   border-radius: 20px;
   overflow: hidden;
 }
-
 .container .cards .imgBx {
   position: absolute;
   top: 0;
@@ -111,7 +123,7 @@ body {
 }
 
 .container .cards:hover .imgBx {
-  transform: translateY(30px) scale(0.5);
+  transform: translateY(10px) scale(0.3);
 }
 
 .container .cards .imgBx img {
@@ -122,13 +134,12 @@ body {
   height: 100%;
   object-fit: cover;
 }
-
 .container .cards .content {
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
-  height: 100%;
+  height: 90%;
   display: flex;
   justify-content: center;
   align-items: flex-end;
@@ -150,8 +161,8 @@ body {
 }
 
 .container .cards .content .details h2 {
-  color: #fff;
-  font-size: 1.5em;
+  color: white;
+  font-size: 30px;
   font-weight: 500;
 }
 
@@ -159,35 +170,5 @@ body {
   font-size: 0.8em;
   font-weight: 400;
   color: #03a9f4;
-}
-
-.social_icons {
-  position: relative;
-  display: flex;
-  margin-top: 5px;
-}
-
-.social_icons li {
-  list-style: none;
-  margin: 4px;
-}
-
-.social_icons li a {
-  width: 45px;
-  height: 45px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background: #294d69;
-  border-radius: 50%;
-  font-size: 1.5em;
-  color: #fff;
-  text-decoration: none;
-  transition: 0.5s;
-}
-
-.social_icons li a:hover {
-  transform: rotate(360deg);
-  background: #03a9f4;
 }
 </style>
