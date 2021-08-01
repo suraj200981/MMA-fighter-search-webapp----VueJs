@@ -3,14 +3,17 @@
     <div v-for="fighter in fighters" :key="fighter.FighterId">
       <div class="container">
         <div class="cards">
-          <div class="imgBx">
-            <img
-              src="https://images.unsplash.com/photo-1595211877493-41a4e5f236b3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=716&q=80"
-            />
-          </div>
+          <h2 style="padding-top: 50px;">
+            {{ fighter.FirstName }} {{ fighter.LastName }}
+          </h2>
+
           <div class="content">
             <div class="details">
-              <h2>Cleo McDowell <br /><span>Senior Designer</span></h2>
+              <h2>
+                Nickname: <i>"{{ fighter.Nickname }}"</i><br /><span
+                  >Senior Designer</span
+                >
+              </h2>
               <ul class="social_icons">
                 <li>
                   <a href="#"><i class="fab fa-facebook-f"></i></a>
