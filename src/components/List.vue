@@ -1,5 +1,12 @@
 <template>
   <div>
+    <input
+      class="searchBox"
+      type="text"
+      v-model="search"
+      placeholder="Search for a fighter"
+    />
+
     <div v-for="fighter in fighters" :key="fighter.FighterId">
       <h1
         style="padding-top:20px; padding-bottom:20px; color:black; font-weight: 900; font-size:40px;"
@@ -77,6 +84,13 @@ export default {
 <style scoped>
 @import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;500&display=swap");
 
+.searchBox {
+  width: 50%;
+  height: 60%;
+  line-height: 30px;
+  margin-top: 30px;
+  font-size: 24px;
+}
 * {
   margin: 0;
   padding: 0;
