@@ -1,6 +1,8 @@
 <template>
   <div class="home">
-    <List />
+    <center>
+      <List />
+    </center>
   </div>
 </template>
 

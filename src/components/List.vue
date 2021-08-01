@@ -7,7 +7,11 @@
       placeholder="Search for a fighter"
     />
 
-    <div v-for="fighter in filteredFighters" :key="fighter.FighterId">
+    <div
+      v-for="fighter in filteredFighters"
+      :key="fighter.FighterId"
+      style="background:#F5FBFF;"
+    >
       <h1
         style="padding-top:20px; padding-bottom:20px; color:black; font-weight: 900; font-size:40px;"
       >
