@@ -8,9 +8,9 @@
       "
     >
       <router-link to="/">Home </router-link>
-      <router-link to="/">Fighters </router-link>
-      <router-link to="/about">News </router-link>
-      <router-link to="/about">Contact</router-link>
+      <router-link to="/fighters">Fighters </router-link>
+      <router-link to="/news">News </router-link>
+      <router-link to="/contact">Contact</router-link>
     </div>
   </div>
 </template>

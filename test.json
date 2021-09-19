@@ -1,0 +1,1299 @@
+{
+  "header": "UFC News",
+  "link": {
+    "language": "en",
+    "rel": ["index", "desktop", "league"],
+    "href": "https://www.espn.com/mma/",
+    "text": "All UFC News",
+    "shortText": "All News",
+    "isExternal": false,
+    "isPremium": false
+  },
+  "articles": [
+    {
+      "images": [
+        {
+          "name": "A.J. McKee vs. Patricio Pitbull Freire 20210731 [1296x729]",
+          "width": 1296,
+          "alt": "AJ McKee blue gloves, knees Patricio PitbullFreire, red gloves, during Bellator 263: Pitbull vs. McKee at the Forum in Inglewood, CA., Saturday, July 31, 2021.",
+          "caption": "A.J. McKee made quick work and a loud statement in stopping Patricio Freire in the first round.",
+          "id": 31931847,
+          "credit": "Hans Gutknecht/MediaNews Group/Los Angeles Daily News via Getty Images",
+          "type": "header",
+          "url": "https://a.espncdn.com/photo/2021/0801/r889147_2_1296x729_16-9.jpg",
+          "height": 729
+        },
+        {
+          "name": "UFC - Sean Strickland, Uriah Hall [1296x729]",
+          "width": 1296,
+          "alt": "Sean Strickland, right, punches Uriah Hall",
+          "caption": "Sean Strickland, right, punches Uriah Hall.",
+          "id": 31931357,
+          "credit": "Chris Unger/Zuffa LLC",
+          "type": "header",
+          "url": "https://a.espncdn.com/photo/2021/0801/r889108_1296x729_16-9.jpg",
+          "height": 729
+        },
+        {
+          "name": "Cheyanne Buys kicks Gloria de Paula [1296x729]",
+          "width": 1296,
+          "alt": "Cheyanne Buys kicks Gloria de Paula",
+          "caption": "Cheyenne Buys kicked Gloria de Paula in the head and then finished the fight on the ground to earn a TKO. It was Buys' first win in the UFC.",
+          "id": 31931019,
+          "credit": "Chris Unger/Zuffa LLC",
+          "type": "header",
+          "url": "https://a.espncdn.com/photo/2021/0801/r889091_1296x729_16-9.jpg",
+          "height": 729
+        },
+        {
+          "name": "UFC - Jared Gooden, Niklas Stolze [1296x729]",
+          "width": 1296,
+          "alt": "Jared Gooden, Niklas Stolze",
+          "caption": "Jared Gooden, left, defeated Niklas Stolze by first-round TKO just over one minute into the fight.",
+          "id": 31930922,
+          "credit": "Chris Unger/Zuffa LLC",
+          "type": "header",
+          "url": "https://a.espncdn.com/photo/2021/0801/r889083_1296x729_16-9.jpg",
+          "height": 729
+        },
+        {
+          "name": "UFC - Melsik Baghdasaryan, Collin Anglin [1296x729]",
+          "width": 1296,
+          "caption": "Melsik Baghdasaryan celebrates his TKO victory over Collin Anglin. Both featherweights were making their official UFC debuts, and each won their way into the promotion via Dana White's Contender Series victories last September.",
+          "id": 31930613,
+          "credit": "Chris Unger/Zuffa LLC",
+          "type": "header",
+          "url": "https://a.espncdn.com/photo/2021/0801/r889059_1296x729_16-9.jpg",
+          "height": 729
+        },
+        {
+          "name": "UFC - Jason Witt, Bryan Barberena [1296x729]",
+          "width": 1296,
+          "alt": "Jason Witt, Bryan Barberena",
+          "caption": "Jason Witt, left, fought to the distance for the first time in his UFC career and earned a majority decision over Bryan Barberena -- pushing his record in the UFC to 2-2.",
+          "id": 31930522,
+          "credit": "Chris Unger/Zuffa LLC",
+          "type": "header",
+          "url": "https://a.espncdn.com/photo/2021/0801/r889051_1296x729_16-9.jpg",
+          "height": 729
+        },
+        {
+          "name": "UFC - Chris Gruetzemacher, Rafa Garcia [1296x729]",
+          "width": 1296,
+          "alt": "Chris Gruetzemacher knees Rafa Garcia",
+          "caption": "Chris Gruetzemacher, left, got rocked by Rafa Garcia in the first round of their lightweight fight, but Gruetzemacher came back and ultimately won a unanimous decision.",
+          "id": 31930207,
+          "credit": "Chris Unger/Zuffa LLC",
+          "type": "header",
+          "url": "https://a.espncdn.com/photo/2021/0801/r889030_1296x729_16-9.jpg",
+          "height": 729
+        },
+        {
+          "name": "UFC - Danny Chavez vs. Kai Kamaka [1296x729]",
+          "width": 1296,
+          "caption": "Danny Chavez, left, and Kai Kamaka fought to a majority draw. Kamaka lost a point following a low blow, and he also poked Chavez in the eye during the fight.",
+          "id": 31930096,
+          "credit": "Chris Unger/Zuffa LLC",
+          "type": "header",
+          "url": "https://a.espncdn.com/photo/2021/0801/r889020_1296x729_16-9.jpg",
+          "height": 729
+        },
+        {
+          "name": "UFC - Jinh Yu Frey, Ashley Yoder [1296x729]",
+          "width": 1296,
+          "alt": "Jinh Yu Frey, Ashley Yoder",
+          "caption": "Jinh Yu Frey, right, earned her second straight win, defeating Ashley Yoder by unanimous decision. All three judges scored the fight 30-27.",
+          "id": 31929923,
+          "credit": "Chris Unger/Zuffa LLC",
+          "type": "header",
+          "url": "https://a.espncdn.com/photo/2021/0801/r888997_1296x729_16-9.jpg",
+          "height": 729
+        },
+        {
+          "name": "UFC - Ryan Benoit vs. Zarrukh Adashev [1296x729]",
+          "width": 1296,
+          "alt": "Zarrukh Adashev, Ryan Benoit",
+          "caption": "Zarrukh Adashev, left, defeated Ryan Benoit via unanimous decision to earn his first victory in the UFC.",
+          "id": 31929823,
+          "credit": "Chris Unger/Zuffa",
+          "type": "header",
+          "url": "https://a.espncdn.com/photo/2021/0731/r888983_1296x729_16-9.jpg",
+          "height": 729
+        },
+        {
+          "name": "Patricio Pitbull and AJ McKee [1296x729]",
+          "width": 1296,
+          "caption": "Patricio \"Pitbull\" Freire, left, and A.J. McKee are set to engage in perhaps the most important fight in Bellator history.",
+          "id": 31915299,
+          "credit": "Jayne Kamin-Oncea/Getty Images",
+          "type": "header",
+          "url": "https://a.espncdn.com/photo/2021/0730/r887821_1296x729_16-9.jpg",
+          "height": 729
+        },
+        {
+          "name": "Sean Strickland dominates in five-round bout vs. Uriah Hall",
+          "width": 576,
+          "caption": "Sean Strickland looks phenomenal from start to finish as he takes control of his main event fight vs. Uriah Hall at UFC Fight Night.",
+          "type": "Media",
+          "url": "https://a.espncdn.com/media/motion/2021/0731/dm_210731_MMA_SEAN_STRICKLAND_WINS/dm_210731_MMA_SEAN_STRICKLAND_WINS.jpg",
+          "height": 324
+        }
+      ],
+      "description": "A.J. McKee didn't waste time in securing the biggest win of his career, while Sean Strickland won his fifth straight.",
+      "published": "2021-08-01T12:57:13Z",
+      "type": "Story",
+      "premium": false,
+      "links": {
+        "api": {
+          "news": {
+            "href": "http://now.core.api.espn.com/v1/sports/news/31920017"
+          },
+          "self": {
+            "href": "http://now.core.api.espn.com/v1/sports/news/31920017"
+          }
+        },
+        "web": {
+          "href": "https://www.espn.com/mma/story/_/id/31920017/ufc-fight-night-uriah-hall-vs-sean-strickland-bellator-263-pitbull-vs-aj-mckee-live-results-analysis",
+          "short": { "href": "https://es.pn/3fewfsU" }
+        },
+        "mobile": {
+          "href": "http://m.espn.go.com/extra/mma/story?storyId=31920017"
+        }
+      },
+      "lastModified": "2021-08-01T12:57:11Z",
+      "categories": [
+        {
+          "id": 141835,
+          "description": "A.J. McKee",
+          "type": "athlete",
+          "sportId": 3301,
+          "athleteId": 3821379,
+          "athlete": {
+            "id": 3821379,
+            "description": "A.J. McKee",
+            "links": {
+              "api": { "athletes": {} },
+              "web": {
+                "athletes": {
+                  "href": "https://www.espn.com/mma/fighter/_/id/3821379"
+                }
+              },
+              "mobile": { "athletes": {} }
+            }
+          },
+          "uid": "s:3301~a:3821379",
+          "createDate": "2021-08-01T04:41:00Z"
+        },
+        {
+          "id": 96620,
+          "description": "Patricio Freire",
+          "type": "athlete",
+          "sportId": 3301,
+          "athleteId": 2532870,
+          "athlete": {
+            "id": 2532870,
+            "description": "Patricio Freire",
+            "links": {
+              "api": { "athletes": {} },
+              "web": {
+                "athletes": {
+                  "href": "https://www.espn.com/mma/fighter/_/id/2532870"
+                }
+              },
+              "mobile": { "athletes": {} }
+            }
+          },
+          "uid": "s:3301~a:2532870",
+          "createDate": "2021-08-01T04:41:00Z"
+        },
+        {
+          "id": 124365,
+          "description": "Sean Strickland",
+          "type": "athlete",
+          "sportId": 3301,
+          "athleteId": 3093653,
+          "athlete": {
+            "id": 3093653,
+            "description": "Sean Strickland",
+            "links": {
+              "api": { "athletes": {} },
+              "web": {
+                "athletes": {
+                  "href": "https://www.espn.com/mma/fighter/_/id/3093653"
+                }
+              },
+              "mobile": { "athletes": {} }
+            }
+          },
+          "uid": "s:3301~a:3093653",
+          "createDate": "2021-08-01T04:41:00Z"
+        },
+        {
+          "id": 100398,
+          "description": "Uriah Hall",
+          "type": "athlete",
+          "sportId": 3301,
+          "athleteId": 2553996,
+          "athlete": {
+            "id": 2553996,
+            "description": "Uriah Hall",
+            "links": {
+              "api": { "athletes": {} },
+              "web": {
+                "athletes": {
+                  "href": "https://www.espn.com/mma/fighter/_/id/2553996"
+                }
+              },
+              "mobile": { "athletes": {} }
+            }
+          },
+          "uid": "s:3301~a:2553996",
+          "createDate": "2021-08-01T04:41:00Z"
+        },
+        {
+          "id": 30932,
+          "description": "UFC",
+          "type": "league",
+          "sportId": 3321,
+          "leagueId": 3321,
+          "league": {
+            "id": 3321,
+            "description": "UFC",
+            "links": {
+              "api": { "leagues": {} },
+              "web": { "leagues": {} },
+              "mobile": { "leagues": {} }
+            }
+          },
+          "uid": "s:3301~l:3321",
+          "createDate": "2021-08-01T04:41:00Z"
+        },
+        {
+          "id": 191200,
+          "description": "Bellator",
+          "type": "league",
+          "sportId": 3323,
+          "leagueId": 3323,
+          "league": {
+            "id": 3323,
+            "description": "Bellator",
+            "links": {
+              "api": { "leagues": {} },
+              "web": { "leagues": {} },
+              "mobile": { "leagues": {} }
+            }
+          },
+          "uid": "s:3301~l:3323",
+          "createDate": "2021-08-01T04:41:00Z"
+        },
+        {
+          "id": 32201,
+          "description": "MMA",
+          "type": "league",
+          "sportId": 3301,
+          "leagueId": 3301,
+          "league": {
+            "id": 3301,
+            "description": "MMA",
+            "links": {
+              "api": { "leagues": {} },
+              "web": { "leagues": { "href": "https://www.espn.com/mma/" } },
+              "mobile": { "leagues": {} }
+            }
+          },
+          "uid": "s:3301",
+          "createDate": "2021-08-01T04:41:00Z"
+        },
+        {
+          "topicId": 92,
+          "type": "topic",
+          "sportId": 0,
+          "uid": "s:0",
+          "createDate": "2021-07-31T22:47:28Z"
+        },
+        {
+          "topicId": 133,
+          "type": "topic",
+          "sportId": 0,
+          "uid": "s:0",
+          "createDate": "2021-07-31T23:17:33Z"
+        },
+        {
+          "topicId": 155,
+          "type": "topic",
+          "sportId": 0,
+          "uid": "s:0",
+          "createDate": "2021-07-31T22:24:35Z"
+        },
+        {
+          "topicId": 384,
+          "type": "topic",
+          "sportId": 0,
+          "uid": "s:0",
+          "createDate": "2021-07-31T22:20:30Z"
+        },
+        {
+          "topicId": 547,
+          "type": "topic",
+          "sportId": 0,
+          "uid": "s:0",
+          "createDate": "2021-08-01T08:24:31Z"
+        },
+        {
+          "topicId": 553,
+          "type": "topic",
+          "sportId": 0,
+          "uid": "s:0",
+          "createDate": "2021-07-31T22:05:32Z"
+        },
+        {
+          "type": "guid",
+          "guid": "bee4d24601d9ae79ec68b1764719e766",
+          "createDate": "2021-07-31T22:05:32Z"
+        },
+        {
+          "type": "guid",
+          "guid": "41f913c5dc7e990d1d691302c6a49144",
+          "createDate": "2021-07-31T22:04:38Z"
+        },
+        {
+          "type": "guid",
+          "guid": "06863f9e1103191bb3d422fa7bc9e62c",
+          "createDate": "2021-08-01T04:41:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "a745361068c9438d30e0a3713d881634",
+          "createDate": "2021-07-31T22:24:35Z"
+        },
+        {
+          "type": "guid",
+          "guid": "6657482a501d68e1a5bb07a44f7d5569",
+          "createDate": "2021-08-01T04:41:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "460c1cfb79798514c9111e27684cb836",
+          "createDate": "2021-08-01T04:41:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "1a3f6957232ebc952d019822fb84f93d",
+          "createDate": "2021-07-31T22:20:30Z"
+        },
+        {
+          "type": "guid",
+          "guid": "cf7d85805e4d5fc2487711791f7c3a90",
+          "createDate": "2021-07-31T22:47:28Z"
+        },
+        {
+          "type": "guid",
+          "guid": "394dad60-8a1a-31a8-912c-a207555bc939",
+          "createDate": "2021-08-01T04:41:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "979d91c26fbfac10e9f95d2ab043c70e",
+          "createDate": "2021-08-01T04:41:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "be725d55c4290a13fa80d4dcf114b9d3",
+          "createDate": "2021-07-31T23:17:33Z"
+        },
+        {
+          "type": "guid",
+          "guid": "010b0c37-2ce9-3696-b413-34e14c9c3ee5",
+          "createDate": "2021-08-01T04:41:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "41b52873e2dd57e3522421aae295c2dc",
+          "createDate": "2021-08-01T08:24:31Z"
+        }
+      ],
+      "headline": "Bellator 263 and UFC Fight Night results, analysis: A.J. McKee's time has arrived",
+      "byline": "ESPN"
+    },
+    {
+      "images": [
+        {
+          "name": "Sean Strickland punches Uriah Hall  [1296x729]",
+          "width": 1296,
+          "id": 31931509,
+          "credit": "Chris Unger/Zuffa LLC",
+          "type": "header",
+          "url": "https://a.espncdn.com/photo/2021/0801/r889086_1296x729_16-9.jpg",
+          "height": 729
+        },
+        {
+          "name": "Uriah Hall punches Sean Strickland  [1296x729]",
+          "width": 1296,
+          "id": 31931215,
+          "credit": "Chris Unger/Zuffa LLC",
+          "type": "header",
+          "url": "https://a.espncdn.com/photo/2021/0801/r889087_1296x729_16-9.jpg",
+          "height": 729
+        },
+        {
+          "name": "Sean Strickland dominates in five-round bout vs. Uriah Hall",
+          "width": 576,
+          "caption": "Sean Strickland looks phenomenal from start to finish as he takes control of his main event fight vs. Uriah Hall at UFC Fight Night.",
+          "type": "Media",
+          "url": "https://a.espncdn.com/media/motion/2021/0731/dm_210731_MMA_SEAN_STRICKLAND_WINS/dm_210731_MMA_SEAN_STRICKLAND_WINS.jpg",
+          "height": 324
+        }
+      ],
+      "description": "Sean Strickland won his fifth fight in a row Saturday night in Las Vegas as he dominated Uriah Hall from the start in a lopsided unanimous decision.",
+      "published": "2021-08-01T04:16:36Z",
+      "type": "HeadlineNews",
+      "premium": false,
+      "links": {
+        "api": {
+          "news": {
+            "href": "http://now.core.api.espn.com/v1/sports/news/31931576"
+          },
+          "self": {
+            "href": "http://now.core.api.espn.com/v1/sports/news/31931576"
+          }
+        },
+        "web": {
+          "href": "https://www.espn.com/mma/story/_/id/31931576/sean-strickland-dominates-uriah-hall-unanimous-decision-5th-straight-win",
+          "short": { "href": "https://es.pn/3xdUehP" }
+        },
+        "mobile": {
+          "href": "http://m.espn.go.com/extra/mma/story?storyId=31931576"
+        }
+      },
+      "lastModified": "2021-08-01T04:16:35Z",
+      "categories": [
+        {
+          "id": 409224,
+          "description": "news",
+          "type": "topic",
+          "sportId": 0,
+          "topicId": 781,
+          "createDate": "2021-08-01T04:01:00Z"
+        },
+        {
+          "id": 100398,
+          "description": "Uriah Hall",
+          "type": "athlete",
+          "sportId": 3301,
+          "athleteId": 2553996,
+          "athlete": {
+            "id": 2553996,
+            "description": "Uriah Hall",
+            "links": {
+              "api": { "athletes": {} },
+              "web": {
+                "athletes": {
+                  "href": "https://www.espn.com/mma/fighter/_/id/2553996"
+                }
+              },
+              "mobile": { "athletes": {} }
+            }
+          },
+          "uid": "s:3301~a:2553996",
+          "createDate": "2021-08-01T04:01:00Z"
+        },
+        {
+          "id": 124365,
+          "description": "Sean Strickland",
+          "type": "athlete",
+          "sportId": 3301,
+          "athleteId": 3093653,
+          "athlete": {
+            "id": 3093653,
+            "description": "Sean Strickland",
+            "links": {
+              "api": { "athletes": {} },
+              "web": {
+                "athletes": {
+                  "href": "https://www.espn.com/mma/fighter/_/id/3093653"
+                }
+              },
+              "mobile": { "athletes": {} }
+            }
+          },
+          "uid": "s:3301~a:3093653",
+          "createDate": "2021-08-01T04:01:00Z"
+        },
+        {
+          "id": 32201,
+          "description": "MMA",
+          "type": "league",
+          "sportId": 3301,
+          "leagueId": 3301,
+          "league": {
+            "id": 3301,
+            "description": "MMA",
+            "links": {
+              "api": { "leagues": {} },
+              "web": { "leagues": { "href": "https://www.espn.com/mma/" } },
+              "mobile": { "leagues": {} }
+            }
+          },
+          "uid": "s:3301",
+          "createDate": "2021-08-01T04:01:00Z"
+        },
+        {
+          "id": 30932,
+          "description": "UFC",
+          "type": "league",
+          "sportId": 3321,
+          "leagueId": 3321,
+          "league": {
+            "id": 3321,
+            "description": "UFC",
+            "links": {
+              "api": { "leagues": {} },
+              "web": { "leagues": {} },
+              "mobile": { "leagues": {} }
+            }
+          },
+          "uid": "s:3301~l:3321",
+          "createDate": "2021-08-01T04:01:00Z"
+        },
+        {
+          "topicId": 92,
+          "type": "topic",
+          "sportId": 0,
+          "uid": "s:0",
+          "createDate": "2021-08-01T04:14:28Z"
+        },
+        {
+          "topicId": 133,
+          "type": "topic",
+          "sportId": 0,
+          "uid": "s:0",
+          "createDate": "2021-08-01T04:14:34Z"
+        },
+        {
+          "topicId": 155,
+          "type": "topic",
+          "sportId": 0,
+          "uid": "s:0",
+          "createDate": "2021-08-01T04:31:34Z"
+        },
+        {
+          "topicId": 384,
+          "type": "topic",
+          "sportId": 0,
+          "uid": "s:0",
+          "createDate": "2021-08-01T04:30:31Z"
+        },
+        { "topicId": 547, "type": "topic", "sportId": 0, "uid": "s:0" },
+        {
+          "topicId": 553,
+          "type": "topic",
+          "sportId": 0,
+          "uid": "s:0",
+          "createDate": "2021-08-01T05:12:32Z"
+        },
+        {
+          "type": "guid",
+          "guid": "a745361068c9438d30e0a3713d881634",
+          "createDate": "2021-08-01T04:31:34Z"
+        },
+        {
+          "type": "guid",
+          "guid": "1a3f6957232ebc952d019822fb84f93d",
+          "createDate": "2021-08-01T04:30:31Z"
+        },
+        {
+          "type": "guid",
+          "guid": "06863f9e1103191bb3d422fa7bc9e62c",
+          "createDate": "2021-08-01T04:01:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "be725d55c4290a13fa80d4dcf114b9d3",
+          "createDate": "2021-08-01T04:14:34Z"
+        },
+        {
+          "type": "guid",
+          "guid": "bee4d24601d9ae79ec68b1764719e766",
+          "createDate": "2021-08-01T05:12:32Z"
+        },
+        {
+          "type": "guid",
+          "guid": "979d91c26fbfac10e9f95d2ab043c70e",
+          "createDate": "2021-08-01T04:01:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "394dad60-8a1a-31a8-912c-a207555bc939",
+          "createDate": "2021-08-01T04:01:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "5231367719f8b106ec91d8d17e6087fe",
+          "createDate": "2021-08-01T04:01:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "41f913c5dc7e990d1d691302c6a49144",
+          "createDate": "2021-08-01T05:11:37Z"
+        },
+        {
+          "type": "guid",
+          "guid": "cf7d85805e4d5fc2487711791f7c3a90",
+          "createDate": "2021-08-01T04:14:28Z"
+        }
+      ],
+      "headline": "Sean Strickland dominates Uriah Hall in unanimous decision for 5th straight win",
+      "byline": "Jeff Wagenheim"
+    },
+    {
+      "images": [
+        {
+          "name": "Sean Strickland dominates in five-round bout vs. Uriah Hall",
+          "width": 576,
+          "alt": "",
+          "caption": "Sean Strickland looks phenomenal from start to finish as he takes control of his main event fight vs. Uriah Hall at UFC Fight Night.",
+          "url": "https://a.espncdn.com/media/motion/2021/0731/dm_210731_MMA_SEAN_STRICKLAND_WINS/dm_210731_MMA_SEAN_STRICKLAND_WINS.jpg",
+          "height": 324
+        }
+      ],
+      "description": "Sean Strickland looks phenomenal from start to finish as he takes control of his main event fight vs. Uriah Hall at UFC Fight Night.",
+      "published": "2021-08-01T03:34:22Z",
+      "type": "Media",
+      "premium": false,
+      "links": {
+        "api": {
+          "news": { "href": "http://api-app.espn.com/v1/video/clips/31931452" },
+          "self": { "href": "http://api-app.espn.com/v1/video/clips/31931452" }
+        },
+        "web": {
+          "href": "http://www.espn.com/video/clip?id=31931452",
+          "short": { "href": "https://es.pn/3yuQBpr" }
+        }
+      },
+      "lastModified": "2021-08-01T03:34:17Z",
+      "categories": [
+        {
+          "id": 32201,
+          "description": "MMA",
+          "type": "league",
+          "sportId": 3301,
+          "leagueId": 3301,
+          "league": {
+            "id": 3301,
+            "description": "MMA",
+            "links": {
+              "api": { "leagues": {} },
+              "web": { "leagues": { "href": "https://www.espn.com/mma/" } },
+              "mobile": { "leagues": {} }
+            }
+          },
+          "uid": "s:3301",
+          "createDate": "2021-08-01T03:30:54Z"
+        },
+        {
+          "id": 30932,
+          "description": "UFC",
+          "type": "league",
+          "sportId": 3321,
+          "leagueId": 3321,
+          "league": {
+            "id": 3321,
+            "description": "UFC",
+            "links": {
+              "api": { "leagues": {} },
+              "web": { "leagues": {} },
+              "mobile": { "leagues": {} }
+            }
+          },
+          "uid": "s:3301~l:3321",
+          "createDate": "2021-08-01T03:30:54Z"
+        },
+        {
+          "id": 124365,
+          "description": "Sean Strickland",
+          "type": "athlete",
+          "sportId": 3301,
+          "athleteId": 3093653,
+          "athlete": {
+            "id": 3093653,
+            "description": "Sean Strickland",
+            "links": {
+              "api": { "athletes": {} },
+              "web": {
+                "athletes": {
+                  "href": "https://www.espn.com/mma/fighter/_/id/3093653"
+                }
+              },
+              "mobile": { "athletes": {} }
+            }
+          },
+          "uid": "s:3301~a:3093653",
+          "createDate": "2021-08-01T03:30:54Z"
+        },
+        {
+          "id": 100398,
+          "description": "Uriah Hall",
+          "type": "athlete",
+          "sportId": 3301,
+          "athleteId": 2553996,
+          "athlete": {
+            "id": 2553996,
+            "description": "Uriah Hall",
+            "links": {
+              "api": { "athletes": {} },
+              "web": {
+                "athletes": {
+                  "href": "https://www.espn.com/mma/fighter/_/id/2553996"
+                }
+              },
+              "mobile": { "athletes": {} }
+            }
+          },
+          "uid": "s:3301~a:2553996",
+          "createDate": "2021-08-01T03:30:54Z"
+        },
+        {
+          "topicId": 92,
+          "type": "topic",
+          "sportId": 0,
+          "uid": "s:0",
+          "createDate": "2021-08-01T03:33:28Z"
+        },
+        {
+          "topicId": 133,
+          "type": "topic",
+          "sportId": 0,
+          "uid": "s:0",
+          "createDate": "2021-08-01T03:33:33Z"
+        },
+        {
+          "topicId": 384,
+          "type": "topic",
+          "sportId": 0,
+          "uid": "s:0",
+          "createDate": "2021-08-01T04:31:30Z"
+        },
+        {
+          "topicId": 553,
+          "type": "topic",
+          "sportId": 0,
+          "uid": "s:0",
+          "createDate": "2021-08-01T05:12:32Z"
+        },
+        {
+          "id": 30932,
+          "description": "UFC",
+          "type": "league",
+          "sportId": 3321,
+          "leagueId": 3321,
+          "league": {
+            "id": 3321,
+            "description": "UFC",
+            "links": {
+              "api": { "leagues": {} },
+              "web": { "leagues": {} },
+              "mobile": { "leagues": {} }
+            }
+          },
+          "uid": "s:3301~l:3321",
+          "createDate": "2021-08-01T03:30:54Z"
+        },
+        {
+          "id": 32201,
+          "description": "MMA",
+          "type": "league",
+          "sportId": 3301,
+          "leagueId": 3301,
+          "league": {
+            "id": 3301,
+            "description": "MMA",
+            "links": {
+              "api": { "leagues": {} },
+              "web": { "leagues": { "href": "https://www.espn.com/mma/" } },
+              "mobile": { "leagues": {} }
+            }
+          },
+          "uid": "s:3301",
+          "createDate": "2021-08-01T03:30:54Z"
+        },
+        {
+          "type": "guid",
+          "guid": "979d91c26fbfac10e9f95d2ab043c70e",
+          "createDate": "2021-08-01T03:30:54Z"
+        },
+        {
+          "type": "guid",
+          "guid": "394dad60-8a1a-31a8-912c-a207555bc939",
+          "createDate": "2021-08-01T03:30:54Z"
+        },
+        {
+          "type": "guid",
+          "guid": "394dad60-8a1a-31a8-912c-a207555bc939",
+          "createDate": "2021-08-01T03:30:54Z"
+        },
+        {
+          "type": "guid",
+          "guid": "bee4d24601d9ae79ec68b1764719e766",
+          "createDate": "2021-08-01T05:12:32Z"
+        },
+        {
+          "type": "guid",
+          "guid": "cf7d85805e4d5fc2487711791f7c3a90",
+          "createDate": "2021-08-01T03:33:28Z"
+        },
+        {
+          "type": "guid",
+          "guid": "06863f9e1103191bb3d422fa7bc9e62c",
+          "createDate": "2021-08-01T03:30:54Z"
+        },
+        {
+          "type": "guid",
+          "guid": "1a3f6957232ebc952d019822fb84f93d",
+          "createDate": "2021-08-01T04:31:30Z"
+        },
+        {
+          "type": "guid",
+          "guid": "be725d55c4290a13fa80d4dcf114b9d3",
+          "createDate": "2021-08-01T03:33:33Z"
+        },
+        {
+          "type": "guid",
+          "guid": "41f913c5dc7e990d1d691302c6a49144",
+          "createDate": "2021-08-01T05:11:37Z"
+        }
+      ],
+      "headline": "Sean Strickland dominates in five-round bout vs. Uriah Hall"
+    },
+    {
+      "images": [
+        {
+          "name": "Jared Gooden shuts Nik Stolze's lights out in Vegas",
+          "width": 576,
+          "alt": "",
+          "caption": "Jared Gooden knocks out Nik Stolze with a sensational punch at UFC Fight Night.",
+          "url": "https://a.espncdn.com/media/motion/2021/0731/dm_210731_JARED_GOODEN_WINS/dm_210731_JARED_GOODEN_WINS.jpg",
+          "height": 324
+        }
+      ],
+      "description": "Jared Gooden knocks out Nik Stolze with a sensational punch at UFC Fight Night.",
+      "published": "2021-08-01T05:16:26Z",
+      "type": "Media",
+      "premium": false,
+      "links": {
+        "api": {
+          "news": { "href": "http://api-app.espn.com/v1/video/clips/31930862" },
+          "self": { "href": "http://api-app.espn.com/v1/video/clips/31930862" }
+        },
+        "web": {
+          "href": "http://www.espn.com/video/clip?id=31930862",
+          "short": { "href": "https://es.pn/2VprwgU" }
+        }
+      },
+      "lastModified": "2021-08-01T05:16:25Z",
+      "categories": [
+        {
+          "id": 32201,
+          "description": "MMA",
+          "type": "league",
+          "sportId": 3301,
+          "leagueId": 3301,
+          "league": {
+            "id": 3301,
+            "description": "MMA",
+            "links": {
+              "api": { "leagues": {} },
+              "web": { "leagues": { "href": "https://www.espn.com/mma/" } },
+              "mobile": { "leagues": {} }
+            }
+          },
+          "uid": "s:3301",
+          "createDate": "2021-08-01T02:26:39Z"
+        },
+        {
+          "id": 30932,
+          "description": "UFC",
+          "type": "league",
+          "sportId": 3321,
+          "leagueId": 3321,
+          "league": {
+            "id": 3321,
+            "description": "UFC",
+            "links": {
+              "api": { "leagues": {} },
+              "web": { "leagues": {} },
+              "mobile": { "leagues": {} }
+            }
+          },
+          "uid": "s:3301~l:3321",
+          "createDate": "2021-08-01T02:26:39Z"
+        },
+        {
+          "id": 377481,
+          "description": "Jared Gooden",
+          "type": "athlete",
+          "sportId": 3301,
+          "athleteId": 4375621,
+          "athlete": {
+            "id": 4375621,
+            "description": "Jared Gooden",
+            "links": {
+              "api": { "athletes": {} },
+              "web": {
+                "athletes": {
+                  "href": "https://www.espn.com/mma/fighter/_/id/4375621"
+                }
+              },
+              "mobile": { "athletes": {} }
+            }
+          },
+          "uid": "s:3301~a:4375621",
+          "createDate": "2021-08-01T02:26:39Z"
+        },
+        {
+          "topicId": 92,
+          "type": "topic",
+          "sportId": 0,
+          "uid": "s:0",
+          "createDate": "2021-08-01T02:30:28Z"
+        },
+        {
+          "topicId": 133,
+          "type": "topic",
+          "sportId": 0,
+          "uid": "s:0",
+          "createDate": "2021-08-01T02:30:33Z"
+        },
+        {
+          "id": 377481,
+          "description": "Jared Gooden",
+          "type": "athlete",
+          "sportId": 3301,
+          "athleteId": 4375621,
+          "athlete": {
+            "id": 4375621,
+            "description": "Jared Gooden",
+            "links": {
+              "api": { "athletes": {} },
+              "web": {
+                "athletes": {
+                  "href": "https://www.espn.com/mma/fighter/_/id/4375621"
+                }
+              },
+              "mobile": { "athletes": {} }
+            }
+          },
+          "uid": "s:3301~a:4375621",
+          "createDate": "2021-08-01T02:26:39Z"
+        },
+        {
+          "type": "guid",
+          "guid": "9aba4e24479158731adb8ce37f58210f",
+          "createDate": "2021-08-01T02:26:39Z"
+        },
+        {
+          "type": "guid",
+          "guid": "cf7d85805e4d5fc2487711791f7c3a90",
+          "createDate": "2021-08-01T02:30:28Z"
+        },
+        {
+          "type": "guid",
+          "guid": "394dad60-8a1a-31a8-912c-a207555bc939",
+          "createDate": "2021-08-01T02:26:39Z"
+        },
+        {
+          "type": "guid",
+          "guid": "9aba4e24479158731adb8ce37f58210f",
+          "createDate": "2021-08-01T02:26:39Z"
+        },
+        {
+          "type": "guid",
+          "guid": "be725d55c4290a13fa80d4dcf114b9d3",
+          "createDate": "2021-08-01T02:30:33Z"
+        }
+      ],
+      "headline": "Jared Gooden shuts Nik Stolze's lights out in Vegas"
+    },
+    {
+      "images": [
+        {
+          "name": "Melsik Baghdasaryan impresses in UFC debut with amazing head-kick KO",
+          "width": 576,
+          "alt": "",
+          "caption": "Melsik Baghdasaryan just needs one kick to the head of Collin Anglin as he wins in his UFC debut.",
+          "url": "https://a.espncdn.com/media/motion/2021/0731/dm_210731_UFC_MELSIK_DEBUT_WIN/dm_210731_UFC_MELSIK_DEBUT_WIN.jpg",
+          "height": 324
+        }
+      ],
+      "description": "Melsik Baghdasaryan just needs one kick to the head of Collin Anglin as he wins in his UFC debut.",
+      "published": "2021-08-01T02:12:52Z",
+      "type": "Media",
+      "premium": false,
+      "links": {
+        "api": {
+          "news": { "href": "http://api-app.espn.com/v1/video/clips/31930563" },
+          "self": { "href": "http://api-app.espn.com/v1/video/clips/31930563" }
+        },
+        "web": {
+          "href": "http://www.espn.com/video/clip?id=31930563",
+          "short": { "href": "https://es.pn/3xgrncO" }
+        }
+      },
+      "lastModified": "2021-08-01T02:12:49Z",
+      "categories": [
+        {
+          "id": 32201,
+          "description": "MMA",
+          "type": "league",
+          "sportId": 3301,
+          "leagueId": 3301,
+          "league": {
+            "id": 3301,
+            "description": "MMA",
+            "links": {
+              "api": { "leagues": {} },
+              "web": { "leagues": { "href": "https://www.espn.com/mma/" } },
+              "mobile": { "leagues": {} }
+            }
+          },
+          "uid": "s:3301",
+          "createDate": "2021-08-01T02:03:10Z"
+        },
+        {
+          "id": 30932,
+          "description": "UFC",
+          "type": "league",
+          "sportId": 3321,
+          "leagueId": 3321,
+          "league": {
+            "id": 3321,
+            "description": "UFC",
+            "links": {
+              "api": { "leagues": {} },
+              "web": { "leagues": {} },
+              "mobile": { "leagues": {} }
+            }
+          },
+          "uid": "s:3301~l:3321",
+          "createDate": "2021-08-01T02:03:10Z"
+        },
+        {
+          "id": 442402,
+          "description": "Melsik Baghdasaryan",
+          "type": "athlete",
+          "sportId": 3301,
+          "athleteId": 4686734,
+          "athlete": {
+            "id": 4686734,
+            "description": "Melsik Baghdasaryan",
+            "links": {
+              "api": { "athletes": {} },
+              "web": {
+                "athletes": {
+                  "href": "https://www.espn.com/mma/fighter/_/id/4686734"
+                }
+              },
+              "mobile": { "athletes": {} }
+            }
+          },
+          "uid": "s:3301~a:4686734",
+          "createDate": "2021-08-01T02:03:10Z"
+        },
+        {
+          "topicId": 92,
+          "type": "topic",
+          "sportId": 0,
+          "uid": "s:0",
+          "createDate": "2021-08-01T02:07:38Z"
+        },
+        {
+          "topicId": 133,
+          "type": "topic",
+          "sportId": 0,
+          "uid": "s:0",
+          "createDate": "2021-08-01T02:07:33Z"
+        },
+        {
+          "type": "guid",
+          "guid": "cf7d85805e4d5fc2487711791f7c3a90",
+          "createDate": "2021-08-01T02:07:38Z"
+        },
+        {
+          "type": "guid",
+          "guid": "829fd56f-b041-3b94-a4ee-5691c7e6292a",
+          "createDate": "2021-08-01T02:03:10Z"
+        },
+        {
+          "type": "guid",
+          "guid": "be725d55c4290a13fa80d4dcf114b9d3",
+          "createDate": "2021-08-01T02:07:33Z"
+        },
+        {
+          "type": "guid",
+          "guid": "394dad60-8a1a-31a8-912c-a207555bc939",
+          "createDate": "2021-08-01T02:03:10Z"
+        }
+      ],
+      "headline": "Melsik Baghdasaryan impresses in UFC debut with amazing head-kick KO"
+    },
+    {
+      "images": [
+        {
+          "name": "Nicco Montano [600x400]",
+          "width": 600,
+          "alt": "Nicco Montano",
+          "id": 21629672,
+          "credit": "Brandon Magnus/Zuffa LLC/Getty Images",
+          "type": "header",
+          "url": "https://a.espncdn.com/photo/2017/1201/r297097_2_600x400_3-2.jpg",
+          "height": 400
+        }
+      ],
+      "description": "Nicco Montaño missed weight Friday morning by seven pounds and her women's bantamweight bout with Wu Yanan was pulled from Saturday's UFC Fight Night card, the promotion announced.",
+      "published": "2021-07-30T22:28:00Z",
+      "type": "HeadlineNews",
+      "premium": false,
+      "links": {
+        "api": {
+          "news": {
+            "href": "http://now.core.api.espn.com/v1/sports/news/31922660"
+          },
+          "self": {
+            "href": "http://now.core.api.espn.com/v1/sports/news/31922660"
+          }
+        },
+        "web": {
+          "href": "https://www.espn.com/mma/story/_/id/31922660/nicco-montano-misses-weight-7-pounds-bantamweight-bout-called-ufc-fight-night",
+          "short": { "href": "https://es.pn/2TI1LaW" }
+        },
+        "mobile": {
+          "href": "http://m.espn.go.com/extra/mma/story?storyId=31922660"
+        }
+      },
+      "lastModified": "2021-07-30T22:27:50Z",
+      "categories": [
+        {
+          "id": 30932,
+          "description": "UFC",
+          "type": "league",
+          "sportId": 3321,
+          "leagueId": 3321,
+          "league": {
+            "id": 3321,
+            "description": "UFC",
+            "links": {
+              "api": { "leagues": {} },
+              "web": { "leagues": {} },
+              "mobile": { "leagues": {} }
+            }
+          },
+          "uid": "s:3301~l:3321",
+          "createDate": "2021-07-30T20:14:00Z"
+        },
+        {
+          "id": 32201,
+          "description": "MMA",
+          "type": "league",
+          "sportId": 3301,
+          "leagueId": 3301,
+          "league": {
+            "id": 3301,
+            "description": "MMA",
+            "links": {
+              "api": { "leagues": {} },
+              "web": { "leagues": { "href": "https://www.espn.com/mma/" } },
+              "mobile": { "leagues": {} }
+            }
+          },
+          "uid": "s:3301",
+          "createDate": "2021-07-30T20:14:00Z"
+        },
+        {
+          "id": 159745,
+          "description": "Nicco Montano",
+          "type": "athlete",
+          "sportId": 3301,
+          "athleteId": 4065618,
+          "athlete": {
+            "id": 4065618,
+            "description": "Nicco Montano",
+            "links": {
+              "api": { "athletes": {} },
+              "web": {
+                "athletes": {
+                  "href": "https://www.espn.com/mma/fighter/_/id/4065618"
+                }
+              },
+              "mobile": { "athletes": {} }
+            }
+          },
+          "uid": "s:3301~a:4065618",
+          "createDate": "2021-07-30T20:14:00Z"
+        },
+        {
+          "id": 159748,
+          "description": "Wu Yanan",
+          "type": "athlete",
+          "sportId": 3301,
+          "athleteId": 4065639,
+          "athlete": {
+            "id": 4065639,
+            "description": "Wu Yanan",
+            "links": {
+              "api": { "athletes": {} },
+              "web": {
+                "athletes": {
+                  "href": "https://www.espn.com/mma/fighter/_/id/4065639"
+                }
+              },
+              "mobile": { "athletes": {} }
+            }
+          },
+          "uid": "s:3301~a:4065639",
+          "createDate": "2021-07-30T20:14:00Z"
+        },
+        {
+          "id": 116550,
+          "description": "espnw",
+          "type": "topic",
+          "sportId": 0,
+          "topicId": 5,
+          "createDate": "2021-07-30T20:14:00Z"
+        },
+        {
+          "topicId": 133,
+          "type": "topic",
+          "sportId": 0,
+          "uid": "s:0",
+          "createDate": "2021-07-30T20:20:35Z"
+        },
+        {
+          "type": "guid",
+          "guid": "b4516b2018303242eb11678d476699ac",
+          "createDate": "2021-07-30T20:14:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "2dfccc407317f3f945e95115c99014c9",
+          "createDate": "2021-07-30T20:14:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "fe87925563244784385fa1a18c22b5cc",
+          "createDate": "2021-07-30T20:14:00Z"
+        },
+        {
+          "type": "guid",
+          "guid": "be725d55c4290a13fa80d4dcf114b9d3",
+          "createDate": "2021-07-30T20:20:35Z"
+        },
+        {
+          "type": "guid",
+          "guid": "394dad60-8a1a-31a8-912c-a207555bc939",
+          "createDate": "2021-07-30T20:14:00Z"
+        }
+      ],
+      "headline": "Nicco Montano misses weight by 7 pounds, bantamweight bout called off for UFC Fight Night",
+      "byline": "Marc Raimondi"
+    }
+  ]
+}
